@@ -1,0 +1,36 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+   },
+   "browserslist": {
+     "production":[
+       ".0.2%",
+       "not dead",
+       "not op_mint all"
+     ],
+     "devolopment": [
+       "last 1 chrome version",
+       "last 1 firefox version"
+      
+       ]
+       },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retoso/reactJS.git"
+  },
+  "author": "retoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/retoso/reactJS/issues"
+  },
+  "homepage": "https://github.com/retoso/reactJS#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
+  }
+}
